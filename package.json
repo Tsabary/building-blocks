@@ -1,6 +1,6 @@
 {
-  "name": "@tsabery/building-blocks",
-  "version": "1.0.0",
+  "name": "@tsabary/building-blocks",
+  "version": "1.0.1",
   "description": "Yanay's reusable components",
   "scripts": {
     "rollup": "rollup -c"
